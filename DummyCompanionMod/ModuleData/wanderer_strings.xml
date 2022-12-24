@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
-  <strings>
-    <string id="prebackstory.dummycompanionmod_thedummy" text="What caught your attention? My face?"/>
-    <string id="backstory_a.dummycompanionmod_thedummy" text="Yes... many people started calling me the Uneven, Fletcher. Because I of my eyes and face. It was just a matter of time, and people would misunderstand my callname and accept it as a sign that I would do uneven work."/>
-    <string id="backstory_b.dummycompanionmod_thedummy" text="Soon rumours had spread and people wouldn't visit my store to buy arrows. This, after some time has made me lose my job and was about to lead me to my ruin. So I had decided to try myself as a hunter and make a living that way..."/>
-    <string id="backstory_c.dummycompanionmod_thedummy" text="Today I am struggling around trying to hunt animals, for the sake of selling their pelts."/>
-    <string id="backstory_d.dummycompanionmod_thedummy" text="I did, for a short time. But as war got worse and the forest infested with bandits, it got difficult. Joining a company may be my last chance..."/>
-    <string id="response_1.dummycompanionmod_thedummy" text="Did you have success so far?"/>
-    <string id="response_2.dummycompanionmod_thedummy" text="Why don't you join a hunter's group?"/>
-  </strings>
-</base>
+<strings>
+	<string id="prebackstory.dummycompanionmod_thedummy" text="What caught your attention? My face?"/>
+	<string id="backstory_a.dummycompanionmod_thedummy" text="Yes... many people started calling me the Uneven, Fletcher. Because I of my eyes and face. It was just a matter of time, and people would misunderstand my callname and accept it as a sign that I would do uneven work."/>
+	<string id="backstory_b.dummycompanionmod_thedummy" text="Soon rumours had spread and people wouldn't visit my store to buy arrows. This, after some time has made me lose my job and was about to lead me to my ruin. So I had decided to try myself as a hunter and make a living that way..."/>
+	<string id="backstory_c.dummycompanionmod_thedummy" text="Today I am struggling around trying to hunt animals, for the sake of selling their pelts."/>
+	<string id="backstory_d.dummycompanionmod_thedummy" text="I did, for a short time. But as war got worse and the forest infested with bandits, it got difficult. Joining a company may be my last chance..."/>
+	<string id="response_1.dummycompanionmod_thedummy" text="Did you have success so far?"/>
+	<string id="response_2.dummycompanionmod_thedummy" text="Why don't you join a hunter's group?"/>
+</strings>
