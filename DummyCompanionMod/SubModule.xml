@@ -26,6 +26,9 @@
     </XmlNode>
     <XmlNode>
 		<XmlName id="SPCultures" path="edit_spcultures"/>
-    </XmlNode>	
+    </XmlNode>
+    <XmlNode>
+		<XmlName id="GameText" path="cc_wanderer_strings"/>
+    </XmlNode>
   </Xmls>
 </Module>
