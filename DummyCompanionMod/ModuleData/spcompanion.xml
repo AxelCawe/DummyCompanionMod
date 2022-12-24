@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="dummycompanionmod_thedummy" 
+            name="{=InComp.NPC1}{HERO.FIRSTNAME} the Dummy" 
+            age="32" 
+            voice="ironic" 
+            culture="Culture.vlandia" 
+            default_group="Ranged" 
+            is_template="true" 
+            is_hero="false" 
+            occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Bow" value="125"/>
+      <skill id="OneHanded" value="50"/>
+      <skill id="TwoHanded" value="50"/>
+      <skill id="Polearm" value="50"/>
+      <skill id="Throwing" value="25"/>
+      <skill id="Crossbow" value="50"/>
+      <skill id="Riding" value="50"/>
+      <skill id="Athletics" value="100"/>
+      <skill id="Crafting" value="150"/>
+      <skill id="Trade" value="75"/>
+      <skill id="Charm" value="50"/>
+      <skill id="Engineering" value="75"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Generosity" value="0"/>
+      <Trait id="Honor" value="0"/>
+      <Trait id="Valor" value="-1"/>
+      <Trait id="Mercy" value="0"/>
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_vlandia" civilian="true" />
+      <EquipmentSet id="spc_wanderer_vlandia_0" />
+      <EquipmentSet id="npc_companion_equipment_template_vlandia" />
+    </Equipments>
+  </NPCCharacter> 
+  
+</NPCCharacters>

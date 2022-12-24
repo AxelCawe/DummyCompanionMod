@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Dummy Companion Mod" />
+  <Id value="DummyCompanionMod" />
+  <Version value="v1.0.0" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <Official value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="CustomBattle" />
+    <DependedModule Id="StoryMode" />
+  </DependedModules>
+  <Xmls> 
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="spcompanion" />
+      <IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "Sandbox"/>
+				<GameType value = "SandBoxCore"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+		<XmlName id="SPCultures" path="edit_spcultures"/>
+    </XmlNode>	
+  </Xmls>
+</Module>
