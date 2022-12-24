@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
   <NPCCharacter id="dummycompanionmod_thedummy" 
-            name="{=InComp.NPC1}{HERO.FIRSTNAME} the Dummy" 
+            name="{HERO.FIRSTNAME} the Dummy" 
             age="32" 
             voice="ironic" 
             culture="Culture.vlandia" 
