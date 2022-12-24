@@ -6,7 +6,7 @@
     <string id="backstory_b.dummycompanionmod_thedummy" text="Soon rumours had spread and people wouldn't visit my store to buy arrows. This, after some time has made me lose my job and was about to lead me to my ruin. So I had decided to try myself as a hunter and make a living that way..."/>
     <string id="backstory_c.dummycompanionmod_thedummy" text="Today I am struggling around trying to hunt animals, for the sake of selling their pelts."/>
     <string id="backstory_d.dummycompanionmod_thedummy" text="I did, for a short time. But as war got worse and the forest infested with bandits, it got difficult. Joining a company may be my last chance..."/>
-    <string id="response_1.dummycompanionmod_thedummy" text="InComp.NPC1.6}Did you have success so far?"/>
-    <string id="response_2.dummycompanionmod_thedummy" text="InComp.NPC1.7}Why don't you join a hunter's group?"/>
+    <string id="response_1.dummycompanionmod_thedummy" text="Did you have success so far?"/>
+    <string id="response_2.dummycompanionmod_thedummy" text="Why don't you join a hunter's group?"/>
   </strings>
 </base>
